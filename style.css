@@ -1,1 +1,15 @@
-
+    .donut{
+        width:100px;
+        height:100px;
+    }
+    .donut::focus{
+        background-image:url("https://render.fineartamerica.com/images/rendered/default/poster/8/5/break/images/artworkimages/medium/2/hector-salamanca-breaking-bad-joseph-oland.jpg")
+    }
+    h1{
+        color:red;
+    }
+    body{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+    }
